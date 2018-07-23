@@ -1,0 +1,27 @@
+1.  Introduction
+  1.1 Overview
+      This document is intended to describe the requirements for a Reef Tank Control System, code named Project Wet Spot
+  1.2 Scope of document
+      This document is intended to translate ‘Project Wet Spot’ into a set of requirements for the design team to implement. 
+  1.3 Reference documents
+      The following documents have been used as reference materials for this specification. 
+      It is recommended that users of this document also become familiar with these documents too:
+      1.3.1 Clownfishes: A Guide to their Captive Care, Breeding & Natural History (Joyce D. Wilkerson)
+      1.3.2 Aquarium Corals: Selection, Husbandry and Natural History (Eric Borneman)
+
+2.  Requirements
+  2.1 General
+      2.1.1 The system should be capable of supporting  Hard and Soft Coral varieties as well as multiple fishes
+      2.1.2 Livestock to be able to survive for up to three weeks without the need for physical intervention
+      2.1.3 The system will fail safe if power is lost or a componant fails
+      2.1.4 The system will support and promote the growth of the livestock
+      2.1.5 Livestock will live as long as possible
+      2.1.6 The system will be as cheap as reasonably practicable
+  2.2 Maintenance
+      2.2.1 System maintennace should be quick, easy and free of mess
+      2.2.2 It should be possible to carry out remote maintenance when the maintainer is not physically present
+      2.2.3 It should be possible to view the performance history and live readings of the system for diagnostics purposes
+  2.3 User interface
+      2.3.1 The system does should allow for both local and remote user interface
+      2.3.2 User interface should allow the user to manually initiate as well as schedule maintenance tasks
+      2.3.2 User interface should be intuative and accessible so that an inexperienced user could operate with minimal/ no guidance
