@@ -1,4 +1,4 @@
-#	Project Wet Spot Requirements Specification
+#	Project Wet Spot Customer Requirements Specification
 ![alt text](http://www.dive-the-world.com/images/gallery/pages/medium/b954323193-great-barrier-reef-anemonefish.jpg "Clownfish")
 ## 1.  Introduction
 ### 1.1.	Overview
