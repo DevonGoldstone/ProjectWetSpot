@@ -21,33 +21,33 @@ The competitor products listed in the Customer Requirements Specification were a
 |	PH monitoring	| Ease, diagnostics |
 |	Temperature monitoring	|	 Ease, diagnostics |
 |	Salinity monitoring	|	 Ease, diagnostics |
-
-
-|	|	ORP monitoring	|	|
-|	|	Ethernet	|	|
-|	|	Wireless	|	|
-|	|	ICE Actions	|	|
-|	|	Can operate without internet access	|	|
-|	|	24V DC power control	|	|
-|	|	Relay switched mains power control	|	|
-|	|	Power monitoring, status indication and associated alarms	|	|
-|	|	Probe calibration	|	|
-|	|	Email alerts	|	|
-|	|	Automatic graphing	|	|
-|		|	Tracking of manual test results, maintenance, purchases, observations etc	|	Diagnostics	|
+|	ORP monitoring	|	 Ease, diagnostics |  
+|	Power monitoring  |	 Ease, diagnostics |
 
 ##  Control Functionality
 |	Functionality	|	Applicable requirement(s)	|
-|	:------------- |	:------------- |	:------------- |
+|	:------------- |	:------------- |
 |	Manual and automated lighting control	|	Supports life, maintenance free operation, growth, longevity	|
 |	Manual and automated pump control	|	Supports life, maintenance free operation, growth, longevity	|
 |	ATO control	|	Supports life, maintenance free operation, growth, longevity	|
 | Ph control  |	Supports life, maintenance free operation, growth, longevity	|
 |	Heater control	|	Supports life, maintenance free operation, growth, longevity	|
+|	ORP cotrol	|	Supports life, maintenance free operation, growth, longevity	|
 
 ##  General Functionality
 |	Functionality	|	Applicable requirement(s)	|
 |	:------------- |	:------------- |	:------------- |
 | Mains powered | |
 |	Auxilary powered  | |
+|	Ethernet	|	|
+|	Wireless	|	|
+|	ICE Actions	|	|
+|	Can operate without internet access	|	|
+|	24V DC power control	|	|
+|	Relay switched mains power control	|	|
+| Monitored items status indication and associated alarms	| |
+|	Probe calibration	|	|
+|	|	Email alerts	|	|
+|	Automatic graphing	|	|
+|	Tracking of manual test results, maintenance, purchases, observations etc	|	Diagnostics	|
 ***
