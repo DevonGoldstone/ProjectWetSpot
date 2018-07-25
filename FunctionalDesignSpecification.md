@@ -8,7 +8,14 @@ This document lists the required functionality for 'Project Wet Spot' as well as
 ###  1.3 Reference documents
 The documents listed in the Customer Requirements Specification have been used as reference materials for this specification. 
 Where information has been gathered from external sources, this will be cited in the text
-###	1.4 Competitor product functionality
+###	1.4 Constraints, Assumptions, and Dependencies
+####  1.4.1 Constraints
+The System will work with an Innovative Marine Fusion Nano 20 fishtank and TMC Aquarium V2 power pump 800
+####  1.4.2 Assumptions
+
+####  1.4.1 Dependencies
+
+###	1.5 Competitor product functionality
 The competitor products listed in the Customer Requirements Specification were all reviewed for functionality, a list of these features has been collated in the table below categorised by which CRS requirement they meet (if any): 
 
 ##  Monitoring Functionality
@@ -61,6 +68,3 @@ The competitor products listed in the Customer Requirements Specification were a
 | All system connections should be clearly identified, unique plugs, support IP rating, be physically robust| Water protection, Strength, Connections |
 | Incorrect connection of plugs should not result in system damage  | Electrical protection, Connections, Ease, Cost  |
 | User interface should be intuative and accessible so that an inexperienced user could operate with minimal/ no guidance | Style |
-
-###	1.5 Constraints, Assumptions, and Dependencies
-####  1.5.1 Constraints
