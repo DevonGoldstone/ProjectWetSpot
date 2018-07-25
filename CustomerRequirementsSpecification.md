@@ -24,7 +24,7 @@ It is recommended that users of this document also become familiar with these do
 | :------------- |:-------------| :-----:| :-----|
 | Supports life      | System supports  Hard coral, Soft Coral and fish life | DG | No unnecessary deaths  |
 |	Maintenance free operation	|	Livestock can survive for up to 3 weeks with no need for physical intervention	|	DG	| Holidays	|
-|	Failure	|	System fails safe if power is lost or a componant fials	|	DG	|	Avoid wet carpets or cooked fish	|
+|	Failure	|	System fails safe if power is lost or a componant fails	|	DG	|	Avoid wet carpets or cooked fish	|
 |	Growth	|	System supports and promotes livestock growth	|	DG	|	Saves money	|
 |	Longevity	|	Livestock will live as long as possible	|	DG	|	Save money	|
 |	Cost	|	As cheap as reasonably practicable	|	DG	|	Saves headache from the wife	|
