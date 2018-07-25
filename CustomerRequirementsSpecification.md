@@ -31,7 +31,7 @@ It is recommended that users of this document also become familiar with these do
 ###  2.2 Maintenance
 | Summary        | Requirement           | Source  |  Comments  |
 | :------------- |:-------------| :-----:| :-----|
-|	Ease	|	System maintennace should be quick, easy and free of mess	|	DG	|	|
+|	Ease	|	System maintenace should be quick, easy and free of mess	|	DG	|	|
 | Remote control	|	It should be possible to carry out remote maintenance when the maintainer is not physically present	|	DG	|	|
 |	Diagnostics	|	It should be possible to view the performance history and live readings of the system for diagnostics purposes	|	DG	|	|
 ###  2.3 User interface
