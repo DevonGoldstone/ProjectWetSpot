@@ -27,27 +27,40 @@ The competitor products listed in the Customer Requirements Specification were a
 ##  Control Functionality
 |	Functionality	|	Applicable requirement(s)	|
 |	:------------- |	:------------- |
-|	Manual and automated lighting control	|	Supports life, maintenance free operation, growth, longevity	|
-|	Manual and automated pump control	|	Supports life, maintenance free operation, growth, longevity	|
-|	ATO control	|	Supports life, maintenance free operation, growth, longevity	|
-| Ph control  |	Supports life, maintenance free operation, growth, longevity	|
-|	Heater control	|	Supports life, maintenance free operation, growth, longevity	|
-|	ORP cotrol	|	Supports life, maintenance free operation, growth, longevity	|
+|	Manual and automated lighting control	|	Supports life, maintenance free operation, growth, longevity, ease	|
+|	Manual and automated pump control	|	Supports life, maintenance free operation, growth, longevity, ease	|
+|	Manual and automated ATO control	|	Supports life, maintenance free operation, growth, longevity, ease	|
+|	Manual and automated Ph control  |	Supports life, maintenance free operation, growth, longevity, ease	|
+|	Manual and automated Heater control	|	Supports life, maintenance free operation, growth, longevity, ease	|
+|	Manual and automated ORP cotrol	|	Supports life, maintenance free operation, growth, longevity, ease	|
+|	Manual and automated 24V DC out power control	|	Supports life, maintenance free operation, growth, longevity, ease	|
+|	Manual and automated relay switched mains power control	|	Supports life, maintenance free operation, growth, longevity, ease	|
 
 ##  General Functionality
 |	Functionality	|	Applicable requirement(s)	|
 |	:------------- |	:------------- |	:------------- |
-| Mains powered | |
-|	Auxilary powered  | |
-|	Ethernet	|	|
-|	Wireless	|	|
-|	ICE Actions	|	|
-|	Can operate without internet access	|	|
-|	24V DC power control	|	|
-|	Relay switched mains power control	|	|
-| Monitored items status indication and associated alarms	| |
-|	Probe calibration	|	|
-|	|	Email alerts	|	|
-|	Automatic graphing	|	|
-|	Tracking of manual test results, maintenance, purchases, observations etc	|	Diagnostics	|
+| Mains powered | Maintenane free operation |
+|	24Hr UPS  | Failure, Supports Life |
+|	Ethernet	|	 Remote Control, Access |
+|	Wireless	|	Remote Control, Access |
+|	ICE Actions for system and module failure	|	Failure, Supports Life, Planning |
+|	Can operate without internet access	|		Failure, Supports Life  |
+| Monitored item status indication, associated alarms	and email alerts  | Ease, Diagnostics, Style |
+|	Probe calibration	|	Cost, Ease  |
+|	Monitored item graphing	|	Diagnostics, Style |
+|	Tracking of manual test results, maintenance, purchases, observations etc	|	Diagnostics, Ease	|
+| Rolling scheduling of controlled fuctions | Planning  | Maintenance free operation  | Ease  |
+| Reactive control functionality  | Maintenance free operation, failure |
 ***
+## MECHANICAL SPECIFICATION
+|	Description	|	Applicable requirement(s)	|
+|	:------------- |	:------------- |	:------------- |
+| System should fit neatly on a shelf beneath fishtank ~6" * 3" * 3" | Size |
+| System should be IP64 rated | Water protection, Connections |
+| System should be physically robust to survive a fall or bump  | Strength  |
+| All system connections should be clearly identified, unique plugs, support IP rating, be physically robust| Water protection, Strength, Connections |
+| Incorrect connection of plugs should not result in system damage  | Electrical protection, Connections, Ease, Cost  |
+| User interface should be intuative and accessible so that an inexperienced user could operate with minimal/ no guidance | Style |
+
+###	1.5 Constraints, Assumptions, and Dependencies
+####  1.5.1 Constraints
