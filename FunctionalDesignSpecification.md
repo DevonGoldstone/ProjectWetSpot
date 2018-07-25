@@ -38,7 +38,7 @@ The competitor products listed in the Customer Requirements Specification were a
 
 ##  General Functionality
 |	Functionality	|	Applicable requirement(s)	|
-|	:------------- |	:------------- |	:------------- |
+|	:------------- |	:------------- |
 | Mains powered | Maintenane free operation |
 |	24Hr UPS  | Failure, Supports Life |
 |	Ethernet	|	 Remote Control, Access |
@@ -54,7 +54,7 @@ The competitor products listed in the Customer Requirements Specification were a
 ***
 ## MECHANICAL SPECIFICATION
 |	Description	|	Applicable requirement(s)	|
-|	:------------- |	:------------- |	:------------- |
+|	:------------- |	:------------- |
 | System should fit neatly on a shelf beneath fishtank ~6" * 3" * 3" | Size |
 | System should be IP64 rated | Water protection, Connections |
 | System should be physically robust to survive a fall or bump  | Strength  |
