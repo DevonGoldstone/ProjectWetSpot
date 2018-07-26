@@ -16,8 +16,8 @@ For safety purposes, wherever possible hardware should be DC supplied
 
 ####  1.4.1 Dependencies
 
-###	1.5 Competitor product functionality
-The competitor products listed in the Customer Requirements Specification were all reviewed for functionality, a list of these features has been collated in the table below categorised by which CRS requirement they meet (if any): 
+###	1.5 Required product functionality
+Means of meeting the customer requirements specification have been collated and listed in the table below (categorised by which CRS requirement they meet: 
 
 ##  Monitoring Functionality
 | Priority |	Functionality	|	Applicable requirement(s)	|
@@ -97,3 +97,5 @@ Up to 2 heaters max 300 watt, AC, Max current required: 2.6A (round up to 3A for
 1 protein skimmer (24V 1.1A)
 fans x2 (12V 1.7W)
 ato (24V 1.1A)
+##  2 System Power
+![alt text](https://drive.google.com/open?id=1aqrVxX16xwGvS0-2V9eq5WB-cfVHklIj "Top Level Power Schematic")
