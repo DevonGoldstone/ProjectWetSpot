@@ -21,27 +21,45 @@ The competitor products listed in the Customer Requirements Specification were a
 ##  Monitoring Functionality
 |	Functionality	|	Applicable requirement(s)	|
 |	:------------- |	:------------- |
-|	Lux, Kelvin monitor and PAR monitor	|  Ease, diagnostics |
+|	Light monitor (Lux/Kelvin/PAR)	|  Ease, diagnostics |
 | Pump monitoring | Ease, diagnostics |
-|	Ammonia monitoring	|	Ease, diagnostics	|
+| Autofeeder monitoring | Ease, diagnostics |
+|	Ammonia monitoring	(0 ppm)  |	Ease, diagnostics	|
 |	ATO monitor	|	Ease, diagnostics	|
-|	PH monitoring	| Ease, diagnostics |
-|	Temperature monitoring	|	 Ease, diagnostics |
-|	Salinity monitoring	|	 Ease, diagnostics |
+|	pH monitoring	| Ease, diagnostics |
+|	Temperature monitoring	(  27 - 29°C) |	 Ease, diagnostics |
+|	Salinity monitoring (35 ppt)	|	 Ease, diagnostics |
 |	ORP monitoring	|	 Ease, diagnostics |  
 |	Power monitoring  |	 Ease, diagnostics |
+| Calcium monitoring (400 - 500 ppm) |	 Ease, diagnostics |
+|	Carbonate Alkalinity (3.2 - 4.5 mEq/L) |	 Ease, diagnostics |
+| Carbonic Hardness (7 - 12 dKH) |	 Ease, diagnostics |
+|	Phosphate (>0.3 ppm) |	 Ease, diagnostics |
+| Nitrate (>10 ppm) |	 Ease, diagnostics |
+| Magnesium (ppm) |	 Ease, diagnostics |
+| Ammonia (ppm) |	 Ease, diagnostics |
+| Nitrite (0 ppm) |	 Ease, diagnostics |
+
+Consider also: Strontium, Iodine, Bromide, Flouride and vanadium
 
 ##  Control Functionality
-|	Functionality	|	Applicable requirement(s)	|
-|	:------------- |	:------------- |
-|	Manual and automated lighting control	|	Supports life, maintenance free operation, growth, longevity, ease	|
-|	Manual and automated pump control	|	Supports life, maintenance free operation, growth, longevity, ease	|
-|	Manual and automated ATO control	|	Supports life, maintenance free operation, growth, longevity, ease	|
-|	Manual and automated Ph control  |	Supports life, maintenance free operation, growth, longevity, ease	|
-|	Manual and automated Heater control	|	Supports life, maintenance free operation, growth, longevity, ease	|
-|	Manual and automated ORP cotrol	|	Supports life, maintenance free operation, growth, longevity, ease	|
-|	Manual and automated 24V DC out power control	|	Supports life, maintenance free operation, growth, longevity, ease	|
-|	Manual and automated relay switched mains power control	|	Supports life, maintenance free operation, growth, longevity, ease	|
+|	Functionality	|	Target Level  | Applicable requirement(s)	|
+|	:------------- |	:------------- |	:------------- |
+|	Manual and automated autofeeder control	| TBC |	Supports life, maintenance free operation, growth, longevity, ease	|       
+|	Manual and automated lighting control	| TBC |	Supports life, maintenance free operation, growth, longevity, ease	|
+|	Manual and automated return pump control	|	TBC | Supports life, maintenance free operation, growth, longevity, ease	|
+|	Manual and automated ATO control	|	1.023 - 1.027 / 35 ppt | Supports life, maintenance free operation, growth, longevity, ease	|
+|	Manual and automated pH control  | 	8.2 - 8.4     |	Supports life, maintenance free operation, growth, longevity, ease	|
+|	Manual and automated Heater control	|  27 - 29°C | Supports life, maintenance free operation, growth, longevity, ease	|
+|	Manual and automated ORP cotrol	| TBC |	Supports life, maintenance free operation, growth, longevity, ease	|
+|	Manual and automated 24V DC out power control	|  TBC |	Supports life, maintenance free operation, growth, longevity, ease	|
+|	Manual and automated relay switched mains power control	|  TBC |	Supports life, maintenance free operation, growth, longevity, ease	|
+|	Manual and automated calcium control	| 400 ppm - 450 ppm |	Supports life, maintenance free operation, growth, longevity, ease	|
+|	Manual and automated Carbonate Alkalinity / Carbonic Hardness control	| 3.2 - 4.5 mEq/L / 7 - 12 dKH |	Supports life, maintenance free operation, growth, longevity, ease	|
+|	Manual and automated Phosphate control	| 0.2 - 0.8 ppm |	Supports life, maintenance free operation, growth, longevity, ease	|
+|	Manual and automated Magnesium control	| 1250 - 1400 ppm |	Supports life, maintenance free operation, growth, longevity, ease	|
+
+Consider also: Strontium, Iodine, Bromide, Flouride and vanadium
 
 ##  General Functionality
 |	Functionality	|	Applicable requirement(s)	|
